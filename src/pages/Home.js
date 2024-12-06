@@ -26,7 +26,7 @@ const Home = () => {
         <div className="container mx-auto text-center">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">About Us</h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            We are a digital marketing agency dedicated to helping small businesses thrive online.
+            We are a digital marketing agency dedicated to helping businesses thrive online.
             From website design to social media management and SEO, our mission is to empower
             businesses with a strong digital presence that drives results.
           </p>
@@ -43,7 +43,7 @@ const Home = () => {
         <div className="container mx-auto text-center">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">What We Do</h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-12">
-            We offer a range of digital marketing services designed to help you succeed.
+            We offer a range of digital services designed to help you succeed.
           </p>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white p-6 rounded-lg shadow-lg">
@@ -79,7 +79,7 @@ const Home = () => {
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h3 className="text-xl font-semibold mb-2">Experienced Team</h3>
               <p className="text-gray-600">
-                Our experts have years of experience in the digital marketing industry.
+                Our experts have years of experience in the digital marketing industry. 
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">

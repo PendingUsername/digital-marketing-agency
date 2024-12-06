@@ -47,7 +47,7 @@ const About = () => {
           <h2 className="text-4xl font-bold mb-6">Meet Our Team</h2>
           <div className="grid md:grid-cols-3 gap-8">
             {[
-              { name: 'Alice Johnson', role: 'Creative Director', image: '/assets/team1.jpg' },
+              { name: 'Joshua Cook', role: 'Creative Director', image: '/assets/team1.jpg' },
               { name: 'Michael Smith', role: 'SEO Specialist', image: '/assets/team2.jpg' },
               { name: 'Sarah Brown', role: 'Social Media Manager', image: '/assets/team3.jpg' },
             ].map((member, idx) => (

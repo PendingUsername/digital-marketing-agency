@@ -3,10 +3,10 @@ const HeroSection = () => {
       <section className="relative bg-gradient-to-br from-blue-700 to-blue-500 text-white py-32">
         <div className="container mx-auto text-center">
           <h1 className="text-6xl font-extrabold mb-6 leading-tight">
-            Transform Your Business Online
+            Business Happens Online
           </h1>
           <p className="text-xl mb-8">
-            Discover the power of digital marketing to boost your online presence.
+            Increase your online presence and grow your business in the digital age. 
           </p>
           <div className="flex justify-center space-x-4">
             <a
